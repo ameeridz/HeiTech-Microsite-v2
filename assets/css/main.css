@@ -141,7 +141,7 @@ input, select, textarea {
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 1em 0;
-		font-family: nunito;
+		font-family: "futura", sans-serif;
 		font-weight: 400;
 	}
 
@@ -3547,7 +3547,7 @@ input, select, textarea {
 				#banner .content header h2 {
 					font-size: 3.5em;
 					margin: 0;
-					color: #ffd914bd;
+					color: burlywood;
 					font-weight: bold;
 				}
 
