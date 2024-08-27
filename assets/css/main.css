@@ -131,6 +131,8 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		color: #bceeff;
+		font-weight:400
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -138,6 +140,8 @@ input, select, textarea {
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 1em 0;
+		font-family: Exo 2;
+		font-weight: 400;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -150,12 +154,15 @@ input, select, textarea {
 		line-height: 1.5em;
 		letter-spacing: -0.025em;
 		color: #ff9c52;
-		font-family: Bebas Neue;
+		font-weight: 900;
+
 	}
 
 	h3 {
 		font-size: 1.35em;
 		line-height: 1.5em;
+		color: #ff9c52;
+		font-weight: 600;
 	}
 
 	h4 {
@@ -2156,7 +2163,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #179dd9;
+		color: #62ceff;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -2165,7 +2172,7 @@ input, select, textarea {
 		font-size: 1.25em;
 		margin-top: -1em;
 		line-height: 1.75em;
-		font-weight: 400;
+		font-weight: 500;
 	}
 
 	header h3 + p {
