@@ -2939,7 +2939,7 @@ input, select, textarea {
 		.button.primary {
 			background-color: #ff6e33;
 			box-shadow: none;
-			color: #485062  !important;
+			color: black  !important;
 		}
 
 			input[type="submit"].primary:hover,
@@ -3157,7 +3157,7 @@ input, select, textarea {
 		}
 
 		.spotlight.bottom .content {
-			border-top-width: 0.35em;
+			border-top-width: 0.45em;
 			bottom: 0;
 		}
 
