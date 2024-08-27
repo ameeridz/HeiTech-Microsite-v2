@@ -2305,7 +2305,7 @@ input, select, textarea {
 	}
 
 		header.major:after {
-			background: #d47231;
+			background: #4159a8;
 			content: '';
 			display: inline-block;
 			height: 0.2em;
