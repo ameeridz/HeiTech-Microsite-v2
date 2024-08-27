@@ -3275,7 +3275,7 @@ input, select, textarea {
 			.wrapper.style2 .button.primary {
 				background-color: #ffffff;
 				color: #e44c65 !important;
-				font-weight: 500;
+				font-weight: 600;
 			}
 
 				.wrapper.style2 input[type="submit"].primary:hover, .wrapper.style2 input[type="submit"].primary:active,
