@@ -240,7 +240,7 @@ input, select, textarea {
 	p {
 		margin: 0 0 2em 0;
 		color: #bceeff;
-		font-weight:400;
+		font-weight:300;
 		font-family: montserrat;
 	}
 
@@ -2593,7 +2593,6 @@ input, select, textarea {
 			border-radius: 100%;
 			cursor: default;
 			display: inline-block;
-			height: 6em;
 			line-height: 5.65em;
 			margin: 0 0 2em 0;
 			text-align: center;
