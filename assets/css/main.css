@@ -3482,7 +3482,7 @@ input, select, textarea {
 				display: block;
 				padding: 0.1em 1em;
 				text-decoration: none;
-				font-weight: 550;
+				font-weight: 500;
 			}
 
 			.dropotron > li:first-child {
@@ -3524,7 +3524,7 @@ input, select, textarea {
 	}
 
 	#header {
-		background: rgba(39, 43, 51, 0.274);
+		background: rgba(39, 43, 51, 0);
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.25);
 		cursor: default;
 		height: 3.5em;
@@ -3547,7 +3547,7 @@ input, select, textarea {
 
 		#header nav {
 			position: absolute;
-			right: 1em;
+			right: 5em;
 			top: 0;
 		}
 
