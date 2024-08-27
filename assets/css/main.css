@@ -3466,7 +3466,7 @@ input, select, textarea {
 							font-size: medium;
 							line-height: 2em;
 							padding: 0 1.25em;
-							font-weight: 600;
+							font-weight: 550;
 						}
 
 						#header nav ul li a:not(.button):before, #header nav ul li span:not(.button):before {
