@@ -2301,7 +2301,7 @@ input, select, textarea {
 	}
 
 		header.major:after {
-			background: #4159a8;
+			background: #da7532;
 			content: '';
 			display: inline-block;
 			height: 0.2em;
@@ -3708,8 +3708,8 @@ input, select, textarea {
 			}
 
 			#footer .icons .icon.alt:before {
-				color: #272833 !important;
-				text-shadow: 1px 0 0 rgba(255, 255, 255, 0.5), -1px 0 0 rgba(255, 255, 255, 0.5), 0 1px 0 rgba(255, 255, 255, 0.5), 0 -1px 0 rgba(255, 255, 255, 0.5);
+				color: #27283300 !important;
+				text-shadow: 0.2px 0 0 rgba(255, 255, 255, 0.5), -1px 0 0 rgba(255, 255, 255, 0.5), 0 1px 0 rgba(255, 255, 255, 0.5), 0 -1px 0 rgba(255, 255, 255, 0.5);
 			}
 
 		#footer .copyright {
